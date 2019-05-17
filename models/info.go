@@ -8,5 +8,5 @@ type Info struct {
 	Title    string
 	Artist   string
 	Category string
-	Approved string
+	Approved bool
 }
